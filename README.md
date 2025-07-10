@@ -43,7 +43,7 @@ The edge detection is performed on a `64×64` grayscale image provided via memor
 
 ### 1. Prepare Your Image
 
-Use the Python script below to convert any image to a 64×64 grayscale `.mem` format:
+Use the Python script  to convert any image to a 64×64 grayscale `.mem` format:
 ## Simulate in Vivado
 Open Vivado → Create project → Add Verilog sources and image_mem.mem
 
@@ -51,6 +51,7 @@ Set top_tb.v as simulation top
 
 Run Behavioral Simulation → Click Run All
 
-After simulation, edge_output.txt is generated
+After simulation, edge_output.txt is generated and can viewed using the python script provided.
 
 
+You can add any input image as per your choice and generate a memeory file.
