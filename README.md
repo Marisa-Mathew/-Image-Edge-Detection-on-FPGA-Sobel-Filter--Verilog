@@ -2,7 +2,7 @@
 
 This project implements **Sobel edge detection** on grayscale images using **Verilog HDL**, designed and simulated in **Xilinx Vivado 2023.1**, with output visualized using **Python (matplotlib)**.
 
-The edge detection is performed on a `64×64` grayscale image provided via memory initialization (`.mem` file), and the output edges are extracted using a hardware-accurate 3×3 Sobel filter window. This project is ideal for **beginner FPGA enthusiasts** or those exploring **basic computer vision on hardware**.
+The edge detection is performed on a `64×64` grayscale image provided via memory initialization (`.mem` file), and the output edges are extracted using a hardware-accurate 3×3 Sobel filter window. This project is ideal for beginners for FPGA or those exploring basic computer vision on hardware.
 
 ---
 
@@ -22,7 +22,7 @@ The edge detection is performed on a `64×64` grayscale image provided via memor
 
 -  **Xilinx Vivado 2023.1**
 -  **Verilog HDL**
-- **Python 3.8+**
+-  **Python 3.8+**
   - `numpy`
   - `matplotlib`
 
