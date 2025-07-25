@@ -55,3 +55,5 @@ After simulation, edge_output.txt is generated and can viewed using the python s
 
 
 You can add any input image as per your choice and generate a memeory file.
+
+This project is protected by copyright. It is not open source. All rights reserved by the author.
